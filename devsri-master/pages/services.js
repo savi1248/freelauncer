@@ -81,20 +81,20 @@ export default function Home() {
                     <div className="about-profile-box info-box shadow-box h-full">
                       <div className="inner-profile-icons shadow-box">
                         <Link
-                          target="_blank"
-                          href="https://youtube.com/@devsrikanthsridharan"
+                         
+                          href="#"
                         >
                           <i className="iconoir-youtube" />
                         </Link>
                         <Link
                           target="_blank"
-                          href="https://twitter.com/srikanthsridhar"
+                          href="https://www.linkedin.com/in/savitha-a-34559a1ab//"
                         >
-                          <i className="iconoir-twitter" />
+                          <i className="iconoir-linkedin" />
                         </Link>
                         <Link
                           target="_blank"
-                          href="https://www.instagram.com/devsrikanthsridharan/"
+                          href="https://www.instagram.com/__savitha._.anbu__/"
                         >
                           <i className="iconoir-instagram" />
                         </Link>
