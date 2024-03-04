@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Dynamic",
+        "img": "project1.jpeg",
+        "category": "WEB DESIGNING"
+    },
+    {
+        "id": 2,
+        "title": "Multiverse",
+        "img": "project2.jpeg",
+        "category": "PHOTOGRAPHY"
+    },
+    {
+        "id": 3,
+        "title": "Universal",
+        "img": "project3.jpeg",
+        "category": "mOBILE DESIGNING"
+    },
+    {
+        "id": 4,
+        "title": "Universes",
+        "img": "project4.jpeg",
+        "category": "Branding"
+    },
+    {
+        "id": 5,
+        "title": "Hypothetical",
+        "img": "project5.jpeg",
+        "category": "Gaming"
+    },
+    {
+        "id": 6,
+        "title": "Stanford",
+        "img": "project6.jpeg",
+        "category": "Tech"
+    },
+    {
+        "id": 7,
+        "title": "Accessible",
+        "img": "project7.jpeg",
+        "category": "Movie"
+    },
+    {
+        "id": 8,
+        "title": "Observable",
+        "img": "project8.jpeg",
+        "category": "Sports"
+    }
+]
